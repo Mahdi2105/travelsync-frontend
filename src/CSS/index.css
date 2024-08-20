@@ -1,0 +1,9 @@
+.map-container {
+  height: 400px;
+  display: flex;
+}
+
+.search-bar {
+  display: flex;
+  justify-content: center;
+}
